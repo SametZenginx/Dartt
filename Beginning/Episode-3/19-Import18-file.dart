@@ -22,7 +22,7 @@ void triangle(int edge1, int edge2, int edge3) {
   if (edge1 + edge2 <= edge3 ||
       edge1 + edge3 <= edge2 ||
       edge2 + edge3 <= edge1)
-    print("This is not triangle");
+    print("This is not triangle.");
   else {
     if (edge1 == edge2 && edge1 == edge3 && edge2 == edge3) {
       print("Equilateral triangle.");
