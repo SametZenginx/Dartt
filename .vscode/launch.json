@@ -8,7 +8,8 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "Beginning/Episode-2/12-Homework.dart"
+            "program": "Beginning/Episode-3/18-FunctionQuestions.dart",
+            "console": "terminal",
         }
     ]
 }
