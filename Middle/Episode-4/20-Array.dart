@@ -7,7 +7,7 @@ Structures known as arrays in other languages are used as a fixed-length list in
 List<int> numbers = List.filled(10, 0);
 Fixed-length list or array containing /10 elements.
 Index numbers start from 0, so to access the first element of the list, 
-index 0 is checked. saying numbers[0]...
+index 0 is checked saying numbers[0]...
 */
 
 void main(List<String> args) {
@@ -43,5 +43,4 @@ void main(List<String> args) {
   for (int thecurrentElement in numbs) {
     print(thecurrentElement);
   }
-  
 }
