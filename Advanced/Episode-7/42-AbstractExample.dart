@@ -7,7 +7,7 @@ main(List<String> args) {
   userUpdate(db2);
 
 // Let's say you are going to change the database.
-// You just need to change this
+// You just need to change this.
 
 // Database db3 = OracleDB();
 // From Oracle to Firebase
