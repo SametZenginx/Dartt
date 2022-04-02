@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "Middle/Episode-5/Questions/35-Questions.dart",
+            "program": "Advanced/Episode-12/68-TypePromotion.dart",
             "console": "terminal",
         }
     ]
