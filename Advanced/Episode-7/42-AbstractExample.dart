@@ -8,7 +8,6 @@ main(List<String> args) {
 
 // Let's say you are going to change the database.
 // You just need to change this.
-
 // Database db3 = OracleDB();
 // From Oracle to Firebase
 // Database db3 = FirebaseDB(); That's enough
